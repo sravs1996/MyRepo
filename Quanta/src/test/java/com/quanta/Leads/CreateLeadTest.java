@@ -7,7 +7,8 @@ public class CreateLeadTest {
 	@Test
 	public void Leads()
 	{
-	Reporter.log("Leads created Successfully",true);	
+	Reporter.log("Leads created Successfully",true);
+	//test Junkins
 	}
 
 }
